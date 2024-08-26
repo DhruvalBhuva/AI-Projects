@@ -46,18 +46,3 @@ To get started with the Dog Activity Tracker, follow these steps:
    ```
 
 4. Explore the different sections of the app for a comprehensive overview of the project.
-
-## Contributors
-
-Meet the talented individuals who contributed to the success of the Dog Activity Tracker project:
-
-- **Dhruval Bhuva**
-
-  - GitHub Profile: [LinkedIn](https://www.linkedin.com/in/dhruval-bhuva-54289416a/)
-
-- **Bushra Najeeb**
-
-  - GitHub Profile: [LinkedIn](https://www.linkedin.com/in/bushranajeeb/)
-
-- **Aniket Kulkarni**
-  - GitHub Profile: [LinkedIn](https://www.linkedin.com/in/aniket-kulkarni-62569b103/)
