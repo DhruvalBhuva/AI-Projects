@@ -9,6 +9,7 @@ __pycache__/
 # images
 .jpg
 .png
+Waste_Classification_Images/
 
 # Extra added
 *.csv
